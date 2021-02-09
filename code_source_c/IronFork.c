@@ -39,7 +39,8 @@
 #include "dynamixel_sdk.h"                                  // Uses Dynamixel SDK library
 #include <string.h>  
 #include <unistd.h>  
-                           
+
+// Toutes les librairies sont installées
 
 // Control table address
 #define ADDR_PRO_TORQUE_ENABLE          64                  // Control table address is different in Dynamixel model
